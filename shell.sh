@@ -4,3 +4,4 @@
 echo "My first name is $one"
 echo "My surname is $two"
 echo "Total number of arguments is $#"
+echo "This is completed"
